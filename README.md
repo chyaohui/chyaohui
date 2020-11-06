@@ -8,10 +8,10 @@
 
 Welcome to my GitHub! I'm Robert Chen, Over 8+ years of experience and mobile applications development and 1+ years of experience in web development. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
-- 🔭 I’m currently working on Music Company.
-- 🌱 I’m currently learning Flutter & Figma.
-- 😍 What i like to do: 
+### 🔭 I’m currently working on Music Company.
+### 🌱 I’m currently learning Flutter & Figma.
+### 😍 What i like to do: 
 -    I like challenges, learning, helping, sharing and living !!!
-- 🛠 Interested in: 
+### 🛠 Interested in: 
 -    Desktop, mobile(Android,Flutter), front-end, designer.
 
