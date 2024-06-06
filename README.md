@@ -4,7 +4,7 @@
 <div align="center"><img alt="Banner | RobertChen" src="https://i.imgur.com/34fiEUG.gif" /></div>
 
 
-Welcome to my GitHub! I'm Robert Chen, Over 8+ years of experience and mobile applications development and 1+ years of experience in web development. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
+Welcome to my GitHub! I'm Robert Chen, Over 10+ years of experience and mobile applications development and 3+ years of experience in web development. I love doing useful and fun things with programming, listening to different types of music, sharing with friends and much more.
 
 #### 🔭 I’m currently working on a Startup Company.
 #### 🌱 I’m currently learning Flutter & Figma.
